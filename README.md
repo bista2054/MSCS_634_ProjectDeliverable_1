@@ -185,7 +185,7 @@ Overall, these insights highlight diverse economic conditions and resilience acr
    - Figuring out how to run code in cells and use markdown took some time.  
    - Solved by exploring Jupyter step-by-step and keeping code in small parts.
    
-3**Debugging Errors**  
+3. **Debugging Errors**  
    - Errors in Jupyter were sometimes hard to understand compared to Java.  
    - Solved by running code step-by-step and searching for solutions online.
 
